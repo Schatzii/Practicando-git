@@ -9,9 +9,11 @@ body{
 }
 
 #container{
-    width: 70%;
+    width: 60%;
     border: black;
-    text-align: left;
+    text-align: center;
     padding: 1em;
+    margin-left: 13em;
+    border: 1px solid black;
     
 }
